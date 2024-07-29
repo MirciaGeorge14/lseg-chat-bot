@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+div[id='root'] {
+  height: 100%;
+}
+
+div {
+  box-sizing: border-box;
+}
